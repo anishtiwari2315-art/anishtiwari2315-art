@@ -47,12 +47,12 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish-tiwari--art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-tiwari--art&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art-art&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-tiwari--art&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishtiwari2315-art-art&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anish-tiwari--art&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anishtiwari2315-art-art&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
