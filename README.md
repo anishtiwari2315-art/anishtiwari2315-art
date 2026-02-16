@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Anish Tiwari
+# Hi there!  I'm Anish Tiwari
 
-## 🚀 DevOps Engineer | Cloud Infrastructure Enthusiast
+##  DevOps Engineer | Cloud Infrastructure Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;AWS+Cloud+Specialist;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -8,18 +8,18 @@
 
 ---
 
-### 💻 About Me
+###  About Me
 
-- 🔭 Currently working on **AWS Cloud Infrastructure** and **Container Orchestration**
-- 🌱 Learning **Kubernetes**, **Advanced Terraform**, and **AWS Security Best Practices**
-- 🛠️ Building scalable cloud infrastructure and automation solutions
-- 📍 Based in **Pune, Maharashtra, India**
-- 💼 **Available for hire** - Open to DevOps opportunities!
-- 📧 Reach me at: **anishtiwari2315@gmail.com**
+-  Currently working on **AWS Cloud Infrastructure** and **Container Orchestration**
+-  Learning **Kubernetes**, **Advanced Terraform**, and **AWS Security Best Practices**
+-  Building scalable cloud infrastructure and automation solutions
+-  Based in **Pune, Maharashtra, India**
+-  **Available for hire** - Open to DevOps opportunities!
+-  Reach me at: **anishtiwari2315@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
@@ -57,14 +57,14 @@
 
 ---
 
-### 🔥 Recent Projects
+###  Recent Projects
 
 - **[DevOps Terraform Docker Deployment](https://github.com/anishtiwari2315-art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps internship assignment
 - **[DevOps Intern Assignment 8byte](https://github.com/anishtiwari2315-art/devops-intern-assignment-8byte)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <div align="center">
   
@@ -82,6 +82,6 @@
 
 <div align="center">
   
-### 💡 "Automate everything, deploy with confidence!"
+###  "Automate everything, deploy with confidence!"
 
 </div>
