@@ -15,7 +15,7 @@
 -  Building scalable cloud infrastructure and automation solutions
 -  Based in **Pune, Maharashtra, India**
 -  **Available for hire** - Open to DevOps opportunities!
--  Reach me at: **anishtiwari2315@gmail.com**
+-  Reach me at: **anish-tiwari-@gmail.com**
 
 ---
 
@@ -47,20 +47,20 @@
 ###  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-tiwari--art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-tiwari--art&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishtiwari2315-art&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-tiwari--art&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ###  Recent Projects
 
-- **[DevOps Terraform Docker Deployment](https://github.com/anishtiwari2315-art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps internship assignment
-- **[DevOps Intern Assignment 8byte](https://github.com/anishtiwari2315-art/devops-intern-assignment-8byte)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
+- **[DevOps Terraform Docker Deployment](https://github.com/anish-tiwari--art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps internship assignment
+- **[DevOps Intern Assignment 8byte](https://github.com/anish-tiwari--art/devops-intern-assignment-8byte)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
 
 ---
 
@@ -68,16 +68,16 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishtiwari2315)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishtiwari2315@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishtiwari2315-art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-tiwari-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish-tiwari-@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish-tiwari--art)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishtiwari2315-art&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anish-tiwari--art&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
