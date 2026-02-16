@@ -72,6 +72,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Emergency-Grand-1857/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish-tiwari-@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish-tiwari--art)
+[![Topmate](https://img.shields.io/badge/Topmate-00C896?style=for-the-badge&logo=buffer&logoColor=white)](https://topmate.io/anish_tiwari)
 
 </div>
 
