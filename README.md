@@ -15,7 +15,7 @@
 -  Building scalable cloud infrastructure and automation solutions
 -  Based in **Pune, Maharashtra, India**
 -  **Available for hire** - Open to DevOps opportunities!
--  Reach me at: **anish-tiwari-@gmail.com**
+-  Reach me at: **anishtiwari2315@gmail.com**
 
 ---
 
@@ -70,7 +70,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-tiwari-)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Emergency-Grand-1857/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish-tiwari-@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishtiwari2315@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish-tiwari--art)
 [![Topmate](https://img.shields.io/badge/Topmate-00C896?style=for-the-badge&logo=buffer&logoColor=white)](https://topmate.io/anish_tiwari)
 
