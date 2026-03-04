@@ -1,0 +1,40 @@
+name: Backfill Past Contributions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "anishtiwari2315@gmail.com"
+          git config --global user.name "anishtiwari2315-art"
+
+      - name: Backfill commits for past 365 days
+        run: |
+          START_DATE=$(date -d '365 days ago' '+%Y-%m-%d')
+          END_DATE=$(date -d 'yesterday' '+%Y-%m-%d')
+          CURRENT=$START_DATE
+
+          while [[ "$CURRENT" < "$END_DATE" ]] || [[ "$CURRENT" == "$END_DATE" ]]; do
+            echo "Activity log: $CURRENT" > activity.md
+            git add activity.md
+            GIT_AUTHOR_DATE="${CURRENT}T12:00:00" \
+            GIT_COMMITTER_DATE="${CURRENT}T12:00:00" \
+            git commit -m "chore: daily activity - $CURRENT" --allow-empty
+            CURRENT=$(date -d "$CURRENT + 1 day" '+%Y-%m-%d')
+          done
+
+          git push --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
