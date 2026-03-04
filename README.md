@@ -57,6 +57,16 @@
 
 ---
 
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg" />
+</picture>
+
+---
+
 ###  Recent Projects
 
 - **[DevOps Terraform Docker Deployment](https://github.com/anish-tiwari--art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps assignment
