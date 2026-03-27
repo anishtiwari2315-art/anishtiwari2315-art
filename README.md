@@ -1,6 +1,6 @@
-# Hi there!  I'm Anish Tiwari
+# Hi there! I'm Anish Tiwari
 
-##  DevOps Engineer | Cloud Infrastructure Enthusiast
+## DevOps Engineer | Cloud Infrastructure Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;AWS+Cloud+Specialist;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -8,18 +8,18 @@
 
 ---
 
-###  About Me
+### About Me
 
--  Currently working on **AWS Cloud Infrastructure** and **Container Orchestration**
--  Learning **Kubernetes**, **Advanced Terraform**, and **AWS Security Best Practices**
--  Building scalable cloud infrastructure and automation solutions
--  Based in **Pune, Maharashtra, India**
--  **Available for hire** - Open to DevOps opportunities!
--  Reach me at: **anishtiwari2315@gmail.com**
+- Currently working on **AWS Cloud Infrastructure** and **Container Orchestration**
+- Learning **Kubernetes**, **Advanced Terraform**, and **AWS Security Best Practices**
+- Building scalable cloud infrastructure and automation solutions
+- Based in **Pune, Maharashtra, India**
+- **Available for hire** - Open to DevOps opportunities!
+- Reach me at: **anishtiwari2315@gmail.com**
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 #### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,56 +44,56 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishtiwari2315-art&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishtiwari2315-art&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishtiwari2315-art&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=anishtiwari2315-art&theme=radical)
 
 ---
 
 ### Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg" />
-</picture>
+&nbsp;
+
+![github-snake](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-contribution-grid-snake.svg)
 
 ---
 
-###  Recent Projects
+### Featured Projects
 
-- **[DevOps Terraform Docker Deployment](https://github.com/anish-tiwari--art/devops-terraform-docker-deployment)** - AWS EC2 deployment with Terraform and Docker for DevOps assignment
-- **[DevOps Assignment ](https://github.com/anish-tiwari--art/devops-assignment)** - Node.js app with Docker, Terraform (AWS EC2), and GitHub Actions CI/CD
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[aws-infra-lab](https://github.com/anishtiwari2315-art/aws-infra-lab)** | Automated Multi-Tier AWS infrastructure with VPC, EC2 Auto Scaling, ALB, RDS (Multi-AZ), CloudWatch alarms, and S3 backend via Terraform | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **[cicd-docker-app](https://github.com/anishtiwari2315-art/cicd-docker-app)** | Production-grade Node.js microservice with 7-stage Jenkins pipeline, GitHub Actions, Docker multi-stage build, Kubernetes (HPA, PDB, Ingress), Redis cache & Nginx reverse proxy | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+
+#### aws-infra-lab highlights
+- Provisioned full VPC with public/private subnets, NAT Gateway, IGW across 2 AZs
+- EC2 Auto Scaling Group behind Application Load Balancer with health checks
+- RDS MySQL Multi-AZ with automated backups and parameter groups
+- CloudWatch dashboards, alarms, and SNS notifications for observability
+- Modular Terraform with remote S3 state backend and variable-driven config
+
+#### cicd-docker-app highlights
+- 7-stage Jenkins declarative pipeline: Checkout → Test → Build → Scan → Push → Deploy
+- GitHub Actions workflow with automated test coverage and Docker Hub push
+- Multi-stage Docker build reducing image size by ~60% with non-root user
+- Kubernetes HPA (2–10 replicas), Pod Disruption Budget, rolling zero-downtime updates
+- Redis caching layer, Nginx reverse proxy, Prometheus `/metrics` endpoint
 
 ---
 
-###  Connect with Me
+### Connect with Me
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-tiwari-)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Emergency-Grand-1857/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishtiwari2315@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish-tiwari--art)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishtiwari2315-art)
 [![Topmate](https://img.shields.io/badge/Topmate-00C896?style=for-the-badge&logo=buffer&logoColor=white)](https://topmate.io/anish_tiwari)
-
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishtiwari2315-art&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=anishtiwari2315-art&color=brightgreen)
 
-<div align="center">
-  
-###  "Automate everything, deploy with confidence!"
-
-</div>
+### "Automate everything, deploy with confidence!"
