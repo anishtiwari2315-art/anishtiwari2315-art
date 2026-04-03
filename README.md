@@ -57,7 +57,7 @@
 
 &nbsp;
 
-![github-snake](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/anishtiwari2315-art/Profile/output/github-snake.svg)
 
 ---
 
